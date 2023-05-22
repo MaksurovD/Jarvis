@@ -3,7 +3,7 @@ ActivateTrigger = {"проснись","вставай"}
 SleepTrigger = {"спать","cпи","спит"}
 
 APIKeyPicoVoice = "/itw/6URUnDh5aSvJYvSbTXEpb8/pbvxjsE4UFBx6YN9S9XlQFHy0A=="
-APIKey = "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"
+APIKey = "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"
 
 Action_trigger = {
     'сделай','сделала', 'увеличь', 'уменьш', 'уменьшить','увеличить', 'запусти', 'закрой', "убери", "верни", "включи", "выключи", "открой", "запусти", "который"
